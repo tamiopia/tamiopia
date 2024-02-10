@@ -37,7 +37,7 @@
 
 💠 🔧 My toolbox includes expertise in both frontend and backend development, allowing me to build robust web applications from start to finish.
 
-💠📫 You can connect with me on [LinkedIn](your-linkedin-url), where I share more about my journey and experiences in the tech world.
+💠📫 You can connect with me on [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) , where I share more about my journey and experiences in the tech world.
 
         Let's code something awesome together! 💻✨🍾
 
