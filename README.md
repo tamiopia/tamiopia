@@ -12,3 +12,4 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter "/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=tamiopia&style=flat-square&color=blue" alt=""/>
