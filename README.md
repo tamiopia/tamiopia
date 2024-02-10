@@ -21,3 +21,21 @@
   እንኳን ደህና መጣችሁ 
   <img src="https://media.giphy.com/media/8YBM61XW2vZJykO0j4/giphy.gif?cid=ecf05e4793pedobi6bvrnu55uv8zdcsalz665ov5abun092t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+### :woman_technologist: About Me :
+
+👩‍💻 Hi there! I'm Tamagn Zewdu, a passionate web developer with a knack for problem-solving and a few other good characteristics up my sleeve.
+
+🌱 In addition to coding, I've been diving into the world of technical content writing, exploring ways to share my knowledge and insights with others.
+
+⚡ When I'm not crafting code, you can find me tackling challenges on platforms like GeeksforGeeks or devouring the latest tech articles to stay on top of industry trends.
+
+🔧 My toolbox includes expertise in both frontend and backend development, allowing me to build robust web applications from start to finish.
+
+Let's code something awesome together! 💻✨
+
