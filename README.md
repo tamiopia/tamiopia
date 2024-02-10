@@ -29,13 +29,15 @@
 ---
 ### :woman_technologist: About Me :
 
-👩‍💻 Hi there! I'm Tamagn Zewdu, a passionate web developer with a knack for problem-solving and a few other good characteristics up my sleeve.
+ 💠👩‍💻 Hi there! I'm Tamagn Zewdu, a passionate web developer with a knack for problem-solving and a few other good characteristics up my sleeve.
 
-🌱 In addition to coding, I've been diving into the world of technical content writing, exploring ways to share my knowledge and insights with others.
+💠 🌱 In addition to coding, I've been diving into the world of technical content writing, exploring ways to share my knowledge and insights with others.
 
-⚡ When I'm not crafting code, you can find me tackling challenges on platforms like GeeksforGeeks or devouring the latest tech articles to stay on top of industry trends.
+💠 ⚡ When I'm not crafting code, you can find me tackling challenges on platforms like GeeksforGeeks or devouring the latest tech articles to stay on top of industry trends.
 
-🔧 My toolbox includes expertise in both frontend and backend development, allowing me to build robust web applications from start to finish.
+💠 🔧 My toolbox includes expertise in both frontend and backend development, allowing me to build robust web applications from start to finish.
 
-Let's code something awesome together! 💻✨
+💠📫 You can connect with me on [LinkedIn](your-linkedin-url), where I share more about my journey and experiences in the tech world.
+
+        Let's code something awesome together! 💻✨🍾
 
